@@ -9,6 +9,10 @@ See files in \edls folder. Script takes first group of timecodes, strips las 3 c
 
 ![how timecodes are chosen](timecode-example.jpg)
 
+The output is what you put to description box of a YouTube video:
+
+![timecodes output](timecode-example-output.jpg)
+
 ### Limitations
 - Runs in IDE
-- File structure may change. In this case create an issue.
+- .edl file structure may change. In this case create an issue.
